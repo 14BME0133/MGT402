@@ -7,3 +7,4 @@
 ## Introduction to various 
  - Elliot Waves Principle
  - Fibonacci Retracement
+ - Support & Resistance

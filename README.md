@@ -19,8 +19,8 @@ Registered and Approved
 #### Important files:
 
 Lab::Notes
-- [1](/notes/LAB/20180221/README.md) - 20180221
-- [1](/notes/LAB/20180240/README.md) - 20180240
+- [ -- 1 -- ](/notes/LAB/20180221/README.md) - 20180221
+- [ -- 2 -- ](/notes/LAB/20180240/README.md) - 20180240
 
 Assignments
 - [More information](/resources/assignments/README.md)

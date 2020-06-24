@@ -38,7 +38,7 @@ Assignments
 ---
 
 
-See [info](/info.md) or view [all](/reps.md) available repositories.
+See [info](../info.md) or view [all](../reps.md) available repositories.
 
 
 ----
